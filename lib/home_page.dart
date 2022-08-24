@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
             preferredSize: Size.fromHeight(50),
             child: AppBar(
               backgroundColor: Colors.red,
-              title: const Text('Yeeep'),
+              title: const Text('Profile'),
               centerTitle: true,
               // leading: const AutoLeadingButton(),
               leading: IconButton(
